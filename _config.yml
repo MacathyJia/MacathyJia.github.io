@@ -8,23 +8,24 @@ date_format: "%B %d, %Y"
 
 # Layout
 
-show_excerpts: true        # show article excerpts on the home page
-show_frame: false           # adds a gray frame to the site
-show_sidebar: true        # show a sidebar instead of the usual header
+show_excerpts: false        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_social: true
+show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "jhn_cv.pdf", title: "CV"}
+  - {file: "/jhn_cv.pdf", title: "CV"}
   - {file: "Portfolio.pdf", title: "Portfolio"}
-  - {file: "blog.md", title: "Blog"}
+  - {file: "/blog.md", title: "Blog"}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "jiang_tang_dm@163.com"}
+  - {title: Mail, icon: envelope, url: "mailto:jiang_tang_dm@163.com"}
   - {title: Github, icon: github, url: "https://github.com/MacathyJia/MacathyJia.github.io"}
-  - {title: Instgram, icon: instgram, url: "https://www.instagram.com/jtmacathy/"}
+  - {title: Instgram, icon: fa-instgram, url: "https://www.instagram.com/jtmacathy/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
