@@ -16,13 +16,15 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "CV"}
-  - {file: "README.md"}
+  - {file: "jhn_cv.pdf", title: "CV"}
+  - {file: "Portfolio.pdf", title: "Portfolio"}
+  - {file: "blog.md", title: "Blog"}
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "jiang_tang_dm@163.com"}
   - {title: Github, icon: github, url: "https://github.com/MacathyJia/MacathyJia.github.io"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Instgram, icon: instgram, url: "https://www.instagram.com/jtmacathy/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
