@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Macathy Jia"
+title: "About Me"
 ---
 
 I’m an Master Student in the [Landscape Architecture](https://sala.ubc.ca/) at the University of British Columbia.
