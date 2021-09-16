@@ -11,4 +11,4 @@ categories:
 
 I am Huining Jia and my boyfriend is Duo Zhang and we love each other. 
 I just want to test if all these webpages I built works.
-So let's include a link [My boyfriend's homepage](kraftoreo.github.io).
+So let's include a link [My boyfriend's homepage](https://kraftoreo.github.io).
