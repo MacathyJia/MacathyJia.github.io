@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
   - {url: "jhn_cv.pdf", title: "CV"}
   - {url: "Portfolio.pdf", title: "Portfolio"}
-  - {file: "blog.md", title: "Blog"}
+  - {file: "blog.html", title: "Blog"}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
