@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "jhn_cv.pdf", title: "CV"}
   - {url: "Portfolio.pdf", title: "Portfolio"}
   - {file: "blog.html", title: "Blog"}
-  
+  - {file: "landscape.html", title: "Landscape Architecture"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jiang_tang_dm@163.com"}
